@@ -7,7 +7,7 @@
 
 ### The Artificial Intelligence Network
 
-**Building The Communication Layer for Autonomous AI agents**
+**Building The Communication Layer for the Agentic Web**
 
 [![Website](https://img.shields.io/badge/🌐_Visit-artinet.io-black?style=for-the-badge)](https://artinet.io/)
 [![Discord](https://img.shields.io/discord/1371405734461444147?style=for-the-badge&logo=discord&label=Discord)](https://discord.gg/DaxzSchmmX)
@@ -96,30 +96,6 @@ npx @artinet/create-agent@latest
 
 [Choose from templates](https://github.com/the-artinet-project/create-agent/tree/main/templates) for basic agents, code-focused agents, or orchestrators. Each template includes everything you need to get started.
 
-## 🌟 Why artinet?
-
-- **🔓 Open & Interoperable** — No vendor lock-in, works with any A2A-compliant agent
-- **🧩 Modular Design** — Use only what you need, from simple agents to complex orchestrations
-- **🚀 Developer-First** — Express-like Interfaces, comprehensive TypeScript support, rich examples
-- **🤝 Protocol Compliant** — Full A2A v0.3.0 with many MCP integrations
-
-## 📚 Resources
-
-- 🎓 **[Examples](https://github.com/the-artinet-project/create-agent/tree/main/templates)** — Template projects to learn from
-- 💬 **[Discord Community](https://discord.gg/DaxzSchmmX)** — Get help and share your projects
-- 🐛 **[Issue Tracker](https://github.com/the-artinet-project/artinet-sdk/issues)** — Report bugs or request features
-
-## 🤝 Contributing
-
-We welcome contributions from the community! Whether it's:
-
-- 🐛 Bug reports and fixes
-- ✨ New features and enhancements
-- 📖 Documentation improvements
-- 💡 Ideas and feedback
-
-Check out our individual repositories to get started, or join our [Discord](https://discord.gg/DaxzSchmmX) to discuss ideas.
-
 ## 📬 Get in Touch
 
 - **Email:** humans@artinet.io
@@ -127,13 +103,3 @@ Check out our individual repositories to get started, or join our [Discord](http
 - **Reddit:** [r/theartinet](https://www.reddit.com/r/theartinet/)
 - **Bluesky:** [@artinet.io](https://bsky.app/profile/artinet.io)
 - **Telegram:** [Join the chat](https://t.me/+7Nu_xMhH_2ozYjBk)
-
----
-
-<div align="center">
-
-### 🌐 [Start Building on artinet.io](https://artinet.io/)
-
-**Join us in building the future of the Agentic Web**
-
-</div>
