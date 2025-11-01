@@ -10,9 +10,9 @@
 **Building The Communication Layer for the Agentic Web**
 
 [![Website](https://img.shields.io/badge/🌐_Visit-artinet.io-black?style=for-the-badge)](https://artinet.io/)
-[![Discord](https://img.shields.io/discord/1371405734461444147?style=for-the-badge&logo=discord&label=Discord)](https://discord.gg/DaxzSchmmX)
-[![GitHub stars](https://img.shields.io/github/stars/the-artinet-project?style=for-the-badge&logo=github)](https://github.com/the-artinet-project)
-[![Downloads](https://img.shields.io/npm-stat/dm/human01?style=for-the-badge&logo=npm&logoColor=red)](https://github.com/the-artinet-project)
+[![Discord](https://img.shields.io/discord/1371405734461444147?style=for-the-badge&logo=discord&label=Discord&color=purple)](https://discord.gg/DaxzSchmmX)
+[![GitHub stars](https://img.shields.io/github/stars/the-artinet-project?style=for-the-badge&logo=github&color=gold)](https://github.com/the-artinet-project)
+[![Downloads](https://img.shields.io/npm-stat/dm/human01?style=for-the-badge&logo=npm&logoColor=red&color=red)](https://github.com/the-artinet-project)
 
 [Website](https://artinet.io/) • [Documentation](https://artinet.io/getting-started) • [Discord](https://discord.gg/DaxzSchmmX) • [Reddit](https://www.reddit.com/r/theartinet/) • [Bluesky](https://bsky.app/profile/artinet.io)
 
