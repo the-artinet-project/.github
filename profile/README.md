@@ -30,7 +30,7 @@ Built on the **[Agent2Agent (A2A) Protocol](https://github.com/a2aproject/A2A)**
 
 ## Partners
 
-We're proud to be A2A Protocol & Project NANDA Partners
+We're proud to Partner with the A2A Protocol & Project NANDA
 
 <!-- <div align="center"> -->
 [<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/fde2d4e9-edeb-4e73-855b-b29293fb30f6" />](https://github.com/a2aproject/) [<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/5e32daf3-2c3a-40f9-8b95-23d757028537" />](https://github.com/projnanda/)
