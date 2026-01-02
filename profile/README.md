@@ -32,7 +32,7 @@ Built on the **[Agent2Agent (A2A) Protocol](https://github.com/a2aproject/A2A)**
 
 <a href="https://github.com/the-artinet-project/artinet"><h1 align=center><em>artinet</em></h1></a>
 
-**Agent Orchestration, Communication & Deployment**
+<div align=center><b>Agentic Orchestration, Communication & Deployment</b></div>
 
 ### [@artinet/sdk](https://github.com/the-artinet-project/artinet-sdk)
 
