@@ -30,7 +30,7 @@ We build quick and easy to use software for agent-to-agent communication, making
 Built on the **[Agent2Agent (A2A) Protocol](https://github.com/a2aproject/A2A)** and integrated with the **[Model Context Protocol (MCP)](https://modelcontextprotocol.io)**, artinet empowers developers to create collaborative self-organizing multi-agent systems without vendor lock-in.
 
 
-<a href="https://github.com/the-artinet-project/artinet"><h1 align=center><em>artinet</em></h1></a>
+<h1 align=center><a href="https://github.com/the-artinet-project/artinet"><em>artinet</em></a></h1>
 
 <div align=center><b>Agentic Orchestration, Communication & Deployment</b></div>
 
