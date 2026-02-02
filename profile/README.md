@@ -13,7 +13,7 @@
 [![Discord](https://img.shields.io/badge/discord-passing?style=for-the-badge&logo=discord&labelColor=black&color=black
 )](https://discord.gg/DaxzSchmmX)
 [![GitHub stars](https://img.shields.io/github/stars/the-artinet-project?style=for-the-badge&logo=github&color=black)](https://github.com/the-artinet-project)
-[![Downloads](https://img.shields.io/npm-stat/dm/human01?style=for-the-badge&logo=npm&logoColor=black&color=black)](https://github.com/the-artinet-project)
+[![Downloads](https://img.shields.io/npm-stat/dy/human01?style=for-the-badge&logo=npm&logoColor=black&color=black)](https://github.com/the-artinet-project)
 
 [Website](https://artinet.io/) • [Documentation](https://artinet.io/getting-started) • [Discord](https://discord.gg/DaxzSchmmX) • [Reddit](https://www.reddit.com/r/theartinet/) • [Bluesky](https://bsky.app/profile/artinet.io)
 
